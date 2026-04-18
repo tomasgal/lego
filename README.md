@@ -7,4 +7,5 @@ Makes preview of first four pages of
 the PDF and merge them to one PNG file
 
 Skript was prepared with the help 
-ChatGPT (GPT-5.4 Thinking, OpenAI), 24.MAR 2026
+ChatGPT (GPT-5.4 Thinking, OpenAI), MAR 24th 2026
+updated APR 18th (small error patched)
